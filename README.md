@@ -2,7 +2,7 @@
 Stapler web framework
 
 
-## Developers
+## 贡献者
 
 **Long Xie** ([@xielong](https://github.com/xielong)),
 **Jinliang Ou** ([@oujinliang](https://github.com/oujinliang)),
